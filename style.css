@@ -1,0 +1,14 @@
+#box {
+    background-color: aqua;
+    border: 1px solid;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+}
+
+#title {
+    margin: 50px 75px 0px 75px;
+    padding-left: auto;
+    padding-right: auto;
+}
